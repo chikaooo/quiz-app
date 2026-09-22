@@ -21,3 +21,6 @@ quiz-app は一般常識クイズアプリです。ユーザーに一般常識�
 ## 応答言語
 
 このプロジェクトでのやり取りは日本語で行う。
+
+## GitHubリポジトリ
+https://github.com/chikaooo/quiz-app
